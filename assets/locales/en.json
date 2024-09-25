@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome to the Contact App!",
+  "locale": "Locale page",
+  "network": "Network page",
+  "locale_title": "Locale Contact App",
+  "update_title": "Update Contact",
+  "delete_title": "Delete Contact",
+  "create_title": "Create a new Contact",
+  "delete_subtitle": "Are you sure you want to Delete ",
+  "enter_name": "Enter Contact Name",
+  "enter_number": "Enter Contact Phone Number",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "add": "Add",
+  "update": "Update"
+}

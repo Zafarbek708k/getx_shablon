@@ -1,0 +1,16 @@
+{
+  "welcome": "Aloqa ilovasiga xush kelibsiz!",
+  "locale": "Mahalliy sahifa",
+  "network": "Tarmoq sahifasi",
+  "locale_title": "Hotiraga saqlash ilovasi",
+  "update_title": "Kontaktni yangilash",
+  "delete_title": "Kontaktni o'chirish",
+  "create_title": "Yangi Kontaktni yaratish",
+  "delete_subtitle": "Siz ushbu o'chirishni xohlaysizmi ",
+  "enter_name": "Kontaktni ismini kiriting",
+  "enter_number": "Kontaktni telefon raqamini kiriting",
+  "cancel": "Bekor qilish",
+  "delete": "O'chirish",
+  "add": "Qo'shish",
+  "update": "Yangilash"
+}
